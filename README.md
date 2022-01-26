@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on **WebChat App**
 
 - 🌱 I’m currently learning **react**
+- 💬 Ask me about **DSA, Web Dev & CS Core Subjects**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-aniket-gautam.web.app/](https://portfolio-aniket-gautam.web.app/)
 
